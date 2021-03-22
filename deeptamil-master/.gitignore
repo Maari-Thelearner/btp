@@ -1,0 +1,12 @@
+*.tar.gz
+*.zip
+*.index
+.*swp
+.ipynb_checkpoints
+*.pkl.gz
+*.pkl
+*~
+*.pyc
+*.tar.xz
+*.gz
+*.pdf
